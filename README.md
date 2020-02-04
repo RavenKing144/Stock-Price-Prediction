@@ -7,5 +7,6 @@
     •Analysis of the training data using time stamp  of 60 and training it using 4  hidden layer of neurons and 1 final output
     neuron and predicting the values of opening stocks for 1 month after traing the algorithms for 100 epocs
     •Deviation between the given and predicted stocks are shown below 
-    <a href = 'https://github.com/RavenKing144/Stock-Price-Prediction/blob/master/prediction_vs_real.png'></a>
+   
 </pre>
+ <a href = "https://github.com/RavenKing144/Stock-Price-Prediction/blob/master/prediction_vs_real.png"></a>
