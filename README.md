@@ -9,4 +9,4 @@
     •Deviation between the given and predicted stocks are shown below 
    
 </pre>
- <a href = "https://github.com/RavenKing144/Stock-Price-Prediction/blob/master/prediction_vs_real.png"></a>
+ <img src = "https://github.com/RavenKing144/Stock-Price-Prediction/blob/master/prediction_vs_real.png"></img>
